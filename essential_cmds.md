@@ -7,3 +7,5 @@ git status -> the git status command displays the state of the working directory
 git commit -m "enter something here" -> it's like taking a snapshot at a certain point
 
 git log -> gives a history of what you've commited and their timestamp
+
+git push -u origin main -> pushing to a remote repo
